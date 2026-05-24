@@ -1,0 +1,10 @@
+1|Grayscale|Enabled
+2|Invert|Enabled
+3|Brightness|Enabled
+4|Contrast|Enabled
+5|Red Channel|Enabled
+6|Green Channel|Enabled
+7|Blue Channel|Enabled
+8|Box Blur|Enabled
+9|Flip Horizontal|Enabled
+10|Flip Vertical|Enabled
